@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.comida.RegistrarMesero">
+
+
+    <EditText
+        android:id="@+id/txtMesero"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/mesero"
+        tools:layout_editor_absoluteY="80dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/guardar"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="198dp"
+        android:layout_marginTop="49dp"
+        android:layout_below="@+id/txtMesero"
+        android:layout_alignLeft="@+id/txtMesero"
+        android:layout_alignStart="@+id/txtMesero"
+        android:layout_marginLeft="47dp"
+        android:layout_marginStart="47dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cancelar"
+        tools:layout_editor_absoluteX="281dp"
+        tools:layout_editor_absoluteY="198dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginEnd="40dp"
+        android:layout_alignBaseline="@+id/button"
+        android:layout_alignBottom="@+id/button"
+        android:layout_alignRight="@+id/txtMesero"
+        android:layout_alignEnd="@+id/txtMesero" />
+</RelativeLayout>

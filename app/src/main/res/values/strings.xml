@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Comidas Rapidas</string>
+    <string name="titulo">REGISTRO DE PEDIDOS</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="registrar">Registrar Pedido</string>
+    <string name="borrar">Borrar</string>
+    <string name="numero">No.</string>
+    <string name="listar">Listar Pedidos Tabla</string>
+    <string name="mostrar">Lista de Clientes</string>
+    <string name="mensaje">Pedido Guardado Exitosamente!</string>
+    <string name="mensaje2">Cliente Guardado Exitosamente!</string>
+    <string name="pedido">Pedido</string>
+    <string name="error_1">Por favor digite Cedula</string>
+    <string name="registrocliente">Registro de Cliente</string>
+    <string name="perro">Perro Caliente</string>
+    <string name="hamburguesa">Hamburguesa</string>
+    <string name="pizza">Pizza</string>
+    <string name="sencillo">Sencillo</string>
+    <string name="pitbull">Pitbull</string>
+    <string name="carne">Carne</string>
+    <string name="doblecarne">Doble Carne</string>
+    <string name="jamon">Jamon-Queso</string>
+    <string name="hawaiana">Hawaiana</string>
+    <string name="bebida">Bebida</string>
+    <string name="grande">Grande</string>
+    <string name="mediana">Mediana</string>
+    <string name="pequeña">Pequeña</string>
+    <string name="cocacola">Coca-Cola</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="postobon">Postobon</string>
+    <string name="guardar">Guardar</string>
+    <string name="buscar">Buscar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="comida">Lista de Pedidos</string>
+    <string name="alerta">Por favor digite el apellido</string>
+    <string name="identificaion">Identificacion</string>
+    <string name="mesero">Mesero</string>
+    <string name="mesero_lista">Lista de Meseros</string>
+    <string name="alerta2">El Cliente No Existe</string>
+    <string name="alerta3">Primero debe registrar Meseros</string>
+
+    <string name="agregar">Agregar Cliente</string>
+    <string name="opciones_registrar">Opciones de Registro</string>
+    <string name="registrar_mesa">Registrar Mesero</string>
+    <string name="registrar_cliente">Registrar Cliente</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ingrediente">Ingrediente</string>
+    <string name="sabor">Sabor</string>
+    <string name="atendido_por">Atendido Por</string>
+
+    <string-array name="opciones_registrar">
+        <item>@string/registrar_mesa</item>
+        <item>@string/registrar_cliente</item>
+    </string-array>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/opciones_registrar</item>
+        <item>@string/listar</item>
+        <item>@string/mostrar</item>
+        <item>@string/comida</item>
+        <item>@string/mesero_lista</item>
+    </string-array>
+    <string-array name="opc_pedido">
+        <item>@string/sencillo</item>
+        <item>@string/pitbull</item>
+        <item>@string/carne</item>
+        <item>@string/doblecarne</item>
+        <item>@string/jamon</item>
+        <item>@string/hawaiana</item>
+    </string-array>
+    <string-array name="opc_bebida">
+        <item>@string/grande</item>
+        <item>@string/mediana</item>
+        <item>@string/pequeña</item>
+    </string-array>
+</resources>

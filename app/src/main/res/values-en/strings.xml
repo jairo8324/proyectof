@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fast Foods</string>
+    <string name="apellido">Last Name</string>
+    <string name="borrar">Delete</string>
+    <string name="nombre">Name</string>
+    <string name="numero">No.</string>
+    <string name="listar">Order Table</string>
+    <string name="registrar">Register Order</string>
+    <string name="titulo">Order</string>
+    <string name="mensaje">Person Saved Successfully!</string>
+    <string name="comida">Detailed List of Orders</string>
+    <string name="mostrar">Client List</string>
+    <string name="mesero">Waiter</string>
+    <string name="mesero_lista">List of Waiters</string>
+    <string name="registrar_mesa">table registration</string>
+    <string name="registrar_cliente">Customer Registration</string>
+    <string name="pedido">Order</string>
+    <string name="pequeña">Small</string>
+    <string name="perro">Hot Dog</string>
+    <string name="atendido_por">attended by</string>
+    <string name="bebida">Drink</string>
+    <string name="buscar">Search</string>
+    <string name="cancelar">Cancel</string>
+    <string name="carne">Meat</string>
+    <string name="cocacola">Coca Cola</string>
+    <string name="doblecarne">doubler Meat</string>
+    <string name="eliminar">Remove</string>
+    <string name="error_1">please Identification card</string>
+    <string name="grande">Big</string>
+    <string name="guardar">Save</string>
+    <string name="hamburguesa">Burger</string>
+    <string name="hawaiana">Hawaiana</string>
+    <string name="identificaion">Id</string>
+    <string name="ingrediente">Ingredients</string>
+    <string name="jamon">Ham and Cheese</string>
+    <string name="mediana">Median</string>
+    <string name="mensaje2">Client Save</string>
+    <string name="modificar">Modify</string>
+    <string name="sencillo">Simple</string>
+    <string name="sabor">Flavor</string>
+    <string name="registrocliente">customer Registration</string>
+    <string name="postobon">Postobon</string>
+    <string name="pizza">Pizza</string>
+    <string name="pitbull">Pitbull</string>
+    <string name="alerta3">The customer does not exist</string>
+    <string name="alerta2">The customer does  not exist</string>
+    <string name="agregar">Add Customer</string>
+    <string name="alerta">last name</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="opciones_registrar">Registration  Options</string>
+
+
+</resources>
